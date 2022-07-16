@@ -30,9 +30,6 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
-
-And navigate to generated server link (http://127.0.0.1:8000)
-
-### Ghadeer
+## Test the endpoints on postman (import the collection attached 'Inisev_task_collection.json')
 
 ...
